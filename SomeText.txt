@@ -3,3 +3,5 @@ This is a text file
 I made this change in the master branch then,
 I changed it for branch testing
 This is a hotfix change.
+
+This is another hotfix change.
